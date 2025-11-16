@@ -51,7 +51,7 @@
 
 <div align="center">
 
-## 🌈 Connect With Me
+##  Connect With Me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pavankumardotkr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-k-r-62921725a/)
